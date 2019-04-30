@@ -10,4 +10,4 @@ class PagesController{
 	
 
 }
-//totoriri 2
+//totoriri
