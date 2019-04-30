@@ -1,7 +1,7 @@
 <?php
 class Users extends BaseSQL{
 
-	public $id = null;
+	public  $id = null;
 	public $firstname;
 	public $lastname;
 	public $email;
