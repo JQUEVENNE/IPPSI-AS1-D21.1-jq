@@ -1,5 +1,4 @@
-<?php
-
+<?php namespace test {}
 require "conf.inc.php";
 
 function myAutoloader($class){
