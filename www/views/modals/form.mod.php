@@ -1,6 +1,6 @@
 
 <?php $data = ($config["config"]["method"]=="POST")?$_POST:$_GET; ?>
-<!--modifier 2-->
+<!--modifier-->
 	<?php if( !empty($config["errors"])):?>
 		<div class="alert alert-danger">
 			<ul>
